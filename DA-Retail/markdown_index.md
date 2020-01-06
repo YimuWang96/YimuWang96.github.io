@@ -94,7 +94,7 @@ CC BY-NC-SA 4.0
 @inproceedings{wang20,
   title = {An Adversarial Domain Adaptation Network for Cross-Domain Fine-Grained Recognition},
   author = {Yimu Wang and Ren-Jie Song and Xiu-Shen Wei and Lijun Zhang},
-  booktitle = {European Conference on Computer Vision},
+  booktitle = {Winter Conference on Applications of Computer Vision},
   year = {2020}
 }
 ```
