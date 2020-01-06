@@ -1,11 +1,9 @@
-## Yimu Wang
-
-You can use the [editor on GitHub](https://github.com/YimuWang96/YimuWang96.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Yimu Wang
 
 ### Publications
 
-1. An Advertisement [**Page**](https://yimuwang96.github.io/DA-Retail/index.html), 
+1. **Yimu Wang**, Ren-Jie Song, Xiu-Shen Wei, Lijun Zhang. An Adversarial Domain Adaptation Network for Cross-Domain Fine-Grained Recognition. The 2020 Winter Conference on Applications of Computer Vision (WACV ’20), Snowmass village, Colorado, USA, 2020. [[**Page**]](https://yimuwang96.github.io/DA-Retail/index.html)
 
+### Courses
 
+1. TA of [Optimization Methods](http://www.lamda.nju.edu.cn/chengq/course/optfall2019.html)  (With Assoc. Prof. [Lijun Zhang](https://cs.nju.edu.cn/zlj/) ; Fall, 2019).
