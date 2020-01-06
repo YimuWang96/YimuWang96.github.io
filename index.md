@@ -1,4 +1,4 @@
-# Yimu Wang
+## Yimu Wang
 
 ### Publications
 
