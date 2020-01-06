@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: [Yimu Wang]
 description: [Now I am a first year graduate student of Department of Computer Science and Technology in Nanjing University and a member of LAMDA Group, led by professor Zhi-Hua Zhou.]
 google_analytics: [155379172]
-logo: [https://github.com/YimuWang96/YimuWang96.github.io/blob/master/Pics.JPG]
+logo: ./pics.JPG
